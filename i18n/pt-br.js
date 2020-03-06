@@ -227,6 +227,8 @@ export default {
   },
   hackathon: {
     barText: 'Hackathon',
+    starter: '',
+    slogan: '',
     speakerTitle: '',
     speakerlist: [],
     sectionDescription: 'Hack for Wuhan',
@@ -394,6 +396,11 @@ export default {
         {
           text: 'Shimo',
           link: 'https://shimo.im/',
+          target: '_blank'
+        },
+        {
+          text: 'Jdcloud',
+          link: 'https://www.jdcloud.com/cn/?utm_source=PMM_wuhan&utm_medium=wechat&utm_campaign=ReadMore&utm_term=NA',
           target: '_blank'
         }
       ]
